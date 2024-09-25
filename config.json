@@ -1,6 +1,6 @@
 {
-    "token": "YOUR_BOT_TOKEN",
-    "levelUpChannelId": "CHANNEL_ID_FOR_LEVEL_UP_MESSAGES",
+    "token": "MTExMDgzNzQ4MDkzODI4NzE4NQ.GWFyU0.QLct-dn3dJJkW27kyM0ePTx-tMJlZtsviwPSRE",
+    "levelUpChannelId": "1134851890333630598",
     "levelRoles": {
         "1": "ROLE_ID_FOR_LEVEL_1",
         "2": "ROLE_ID_FOR_LEVEL_2"
